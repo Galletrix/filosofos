@@ -1,0 +1,11 @@
+Filosofo 0 esta pensando...
+Filosofo 0 tomo el tenedor izquierdo.
+Filosofo 0 tomo el tenedor derecho.
+Filosofo 0 esta comiendo.
+Filosofo 1 esta pensando...
+Filosofo 0 termino de comer.
+Filosofo 1 tomo el tenedor izquierdo.
+Filosofo 1 tomo el tenedor derecho.
+Filosofo 1 esta comiendo.
+...
+Todos los filosofos han terminado de comer.
